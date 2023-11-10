@@ -1,0 +1,56 @@
+{
+    "id": 2,
+    "name": "package",
+    "hash": "TSKYjBR5lV6530644122fa3",
+    "name_hash": "package_TSKYjBR5lV6530644122fa3",
+    "status": 10,
+    "scan_file": null,
+    "site_url": "https:\/\/12ants.com",
+    "template_id": "2",
+    "filter_exts": null,
+    "filter_files": null,
+    "filter_dirs": null,
+    "filter_tables": null,
+    "store_path": "\/home\/ants12\/htdocs\/12ants.com\/wp-content\/njt-fastdup\/packages",
+    "store_url": "https:\/\/12ants.com\/wp-content\/njt-fastdup\/packages\/",
+    "store_path_temp": "\/home\/ants12\/htdocs\/12ants.com\/wp-content\/njt-fastdup\/tmp",
+    "Archive": {
+        "is_filter": 1,
+        "export_onlydb": false,
+        "filter_exts": [],
+        "filter_dirs": [
+            "\/home\/ants12\/htdocs\/12ants.com\/wp-content\/njt-fastdup"
+        ],
+        "filter_files": [],
+        "read_checks": [],
+        "recursive_links": [],
+        "addon_sites": [],
+        "file": "package_TSKYjBR5lV6530644122fa3_archive.zip",
+        "sql_path": null,
+        "zip_archive": null,
+        "zip_path": null,
+        "compress_dir": "\/home\/ants12\/htdocs\/12ants.com",
+        "scan_path": null,
+        "unreadable_log": [],
+        "dir_exclude_log": [],
+        "recursive_links_log": [],
+        "exts_exclude_log": [],
+        "add_file_error_log": [],
+        "file_exclude_log": []
+    },
+    "Database": {
+        "is_filter": true,
+        "filter_tables": [
+            "wp_simple_history_contexts",
+            "wp_comments",
+            "wp_asenha_failed_logins",
+            "wp_commentmeta",
+            "wp_simple_history"
+        ],
+        "file": "package_TSKYjBR5lV6530644122fa3_database.sql",
+        "prefix": "wp_"
+    },
+    "created": "2023-10-18 23:03:29",
+    "njt_fastdup_archive_name": "wp-content\/njt-fastdup",
+    "njt_fastdup_dir_plugin": "wp-content\/plugins"
+}

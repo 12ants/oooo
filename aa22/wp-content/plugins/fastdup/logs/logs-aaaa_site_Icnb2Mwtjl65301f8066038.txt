@@ -1,0 +1,88 @@
+====  SYSTEM STATS  ====
+Wordpress Version: 6.3.2
+PHP Version: 8.0.30
+MySQL Version: 10.11.5
+Website Name: ants
+Theme: aaaa
+Wordpress URL: https://lolo.12ants.com
+Site URL: https://lolo.12ants.com
+Multisite: no
+PHP Extensions: ["Core","date","libxml","openssl","pcre","zlib","filter","hash","json","Reflection","SPL","session","standard","sodium","cgi-fcgi","memcached","redis","imagick","mysqlnd","PDO","xml","bcmath","calendar","ctype","curl","dom","mbstring","FFI","fileinfo","ftp","gd","gettext","iconv","imap","intl","exif","mysqli","pdo_mysql","pdo_sqlite","Phar","posix","readline","shmop","SimpleXML","soap","sockets","sqlite3","sysvmsg","sysvsem","sysvshm","tokenizer","xmlreader","xmlwriter","xsl","zip","Zend OPcache"]
+Server Info: nginx/1.21.4
+WP Memory Limit: 40M
+WP Admin Memory Limit: 512M
+PHP Memory Limit: 512M
+Max Execution Time: 60
+Open BaseDir: 
+Wordpress Plugins: {"admin-site-enhancements\/admin-site-enhancements.php":{"GitHub Plugin URI":"","Name":"Admin and Site Enhancements (ASE)","PluginURI":"https:\/\/bowo.io\/asenha-php","Version":"6.0.3","Description":"Easily enable enhancements and features that usually require multiple plugins.","Author":"Bowo","AuthorURI":"https:\/\/bowo.io\/asenha-bw-php","TextDomain":"admin-site-enhancements","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Admin and Site Enhancements (ASE)","AuthorName":"Bowo"},"better-image-sizes\/better-image-sizes.php":{"GitHub Plugin URI":"","Name":"Better image sizes","PluginURI":"https:\/\/wp-speedup.eu","Version":"3.4","Description":"Better image sizes","Author":"KubiQ","AuthorURI":"https:\/\/kubiq.sk","TextDomain":"better-image-sizes","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Better image sizes","AuthorName":"KubiQ"},"fastdup\/fastdup.php":{"GitHub Plugin URI":"","Name":"FastDup","PluginURI":"https:\/\/ninjateam.gitbook.io\/fastdup\/","Version":"2.1.8","Description":"WordPress Fastest Duplicator and Migration","Author":"Ninja Team","AuthorURI":"https:\/\/ninjateam.org\/","TextDomain":"njt-fastdup","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"FastDup","AuthorName":"Ninja Team"},"filester\/ninja-file-manager.php":{"GitHub Plugin URI":"","Name":"Filester - File Manager Pro","PluginURI":"https:\/\/ninjateam.org\/filester","Version":"1.8.1","Description":"Made to help you focus on WordPress file management and avoid being distracted.","Author":"Ninja Team","AuthorURI":"https:\/\/ninjateam.org","TextDomain":"filester","DomainPath":"\/i18n\/languages\/","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Filester - File Manager Pro","AuthorName":"Ninja Team"},"performance-lab\/load.php":{"GitHub Plugin URI":"","Name":"Performance Lab","PluginURI":"https:\/\/github.com\/WordPress\/performance","Version":"2.7.0","Description":"Performance plugin from the WordPress Performance Team, which is a collection of standalone performance modules.","Author":"WordPress Performance Team","AuthorURI":"https:\/\/make.wordpress.org\/performance\/","TextDomain":"performance-lab","DomainPath":"","Network":false,"RequiresWP":"6.3","RequiresPHP":"7.0","UpdateURI":"","Title":"Performance Lab","AuthorName":"WordPress Performance Team"},"simple-history\/index.php":{"GitHub Plugin URI":"","Name":"Simple History","PluginURI":"https:\/\/simple-history.com","Version":"4.7.1","Description":"Plugin that logs various things that occur in WordPress and then presents those events in a very nice GUI.","Author":"P\u00e4r Thernstr\u00f6m","AuthorURI":"https:\/\/simple-history.com\/","TextDomain":"simple-history","DomainPath":"","Network":false,"RequiresWP":"6.1","RequiresPHP":"7.4","UpdateURI":"","Title":"Simple History","AuthorName":"P\u00e4r Thernstr\u00f6m"},"tailored-lightbox\/lightbox.php":{"GitHub Plugin URI":"","Name":"Tailored Lightbox","PluginURI":"","Version":"3.5.7.2","Description":"Add a lightbox script (using <a href=\"https:\/\/fancyapps.com\/fancybox\/3\/\" target=\"_blank\">Fancybox<\/ * a>).","Author":"Tailored Media","AuthorURI":"https:\/\/www.tailoredmedia.com.au","TextDomain":"tailored-lightbox","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Tailored Lightbox","AuthorName":"Tailored Media"},"white-label-cms\/wlcms-plugin.php":{"GitHub Plugin URI":"","Name":"White Label CMS","PluginURI":"https:\/\/www.videousermanuals.com\/white-label-cms\/?utm_campaign=wlcms&utm_medium=plugin&utm_source=readme-txt","Version":"2.6","Description":"A plugin that allows you to brand WordPress CMS as your own","Author":"www.videousermanuals.com","AuthorURI":"https:\/\/www.videousermanuals.com\/?utm_campaign=wlcms&utm_medium=plugin&utm_source=readme-txt","TextDomain":"white-label-cms","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"White Label CMS","AuthorName":"www.videousermanuals.com"},"wp-dashboard-notes\/wp-dashboard-notes.php":{"GitHub Plugin URI":"","Name":"WP Dashboard Notes","PluginURI":"https:\/\/wordpress.org\/plugins\/wp-dashboard-notes\/","Version":"1.0.10","Description":"Working in a team? Want to make notes? You can do just that with WP Dashboard Notes. Create beautiful notes with a nice user experience.","Author":"Jeroen Sormani","AuthorURI":"https:\/\/jeroensormani.com\/","TextDomain":"wp-dashboard-notes","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"WP Dashboard Notes","AuthorName":"Jeroen Sormani"},"wp-imsizer\/wp-imsizer.php":{"GitHub Plugin URI":"","Name":"WP Imsizer","PluginURI":"https:\/\/endurtech.com\/wp-imsizer-wordpress-plugin\/","Version":"1.2.4","Description":"Auto resize\/convert image uploads to set height\/width or file type. Auto set image alt, title tags, limit file size and disable 2560px limit.","Author":"Manny Rodrigues","AuthorURI":"https:\/\/endurtech.com","TextDomain":"wp-imsizer","DomainPath":"\/locale","Network":false,"RequiresWP":"5.4","RequiresPHP":"","UpdateURI":"","Title":"WP Imsizer","AuthorName":"Manny Rodrigues"},"wp-original-media-path\/wp_original_media_path.php":{"GitHub Plugin URI":"","Name":"WP Original Media Path","PluginURI":"https:\/\/github.com\/rvola\/wp-original-media-path","Version":"2.4.2","Description":"Change the location for the uploads folder for WordPress","Author":"RVOLA","AuthorURI":"https:\/\/rvola.com","TextDomain":"wp-original-media-path","DomainPath":"\/languages\/","Network":false,"RequiresWP":"3.5","RequiresPHP":"7.0","UpdateURI":"","Title":"WP Original Media Path","AuthorName":"RVOLA"}}
+Wordpress Active Plugins: ["admin-site-enhancements\/admin-site-enhancements.php","better-image-sizes\/better-image-sizes.php","fastdup\/fastdup.php","filester\/ninja-file-manager.php","performance-lab\/load.php","simple-history\/index.php","tailored-lightbox\/lightbox.php","white-label-cms\/wlcms-plugin.php","wp-dashboard-notes\/wp-dashboard-notes.php","wp-imsizer\/wp-imsizer.php","wp-original-media-path\/wp_original_media_path.php"]
+====  SYSTEM STATS  ====
+
+2023-10-18 20:10:08 [INFO] //========PACKAGE: START========//
+2023-10-18 20:10:08 [INFO] Create Package: ID: 1
+2023-10-18 20:10:08 [INFO] Package Data : {
+    "id": 1,
+    "name": "aaaa_site",
+    "hash": "Icnb2Mwtjl65301f8066038",
+    "name_hash": "aaaa_site_Icnb2Mwtjl65301f8066038",
+    "status": 10,
+    "scan_file": null,
+    "site_url": "https:\/\/lolo.12ants.com",
+    "template_id": "1",
+    "filter_exts": null,
+    "filter_files": null,
+    "filter_dirs": null,
+    "filter_tables": null,
+    "store_path": "\/home\/lolo\/htdocs\/lolo.12ants.com\/wp-content\/njt-fastdup\/packages",
+    "store_url": "https:\/\/lolo.12ants.com\/wp-content\/njt-fastdup\/packages\/",
+    "store_path_temp": "\/home\/lolo\/htdocs\/lolo.12ants.com\/wp-content\/njt-fastdup\/tmp",
+    "Archive": {
+        "is_filter": 1,
+        "export_onlydb": false,
+        "filter_exts": [],
+        "filter_dirs": [
+            "\/home\/lolo\/htdocs\/lolo.12ants.com\/wp-content\/njt-fastdup"
+        ],
+        "filter_files": [],
+        "read_checks": [],
+        "recursive_links": [],
+        "addon_sites": [],
+        "file": "aaaa_site_Icnb2Mwtjl65301f8066038_archive.zip",
+        "sql_path": null,
+        "zip_archive": null,
+        "zip_path": null,
+        "compress_dir": "\/home\/lolo\/htdocs\/lolo.12ants.com",
+        "scan_path": null,
+        "unreadable_log": [],
+        "dir_exclude_log": [],
+        "recursive_links_log": [],
+        "exts_exclude_log": [],
+        "add_file_error_log": [],
+        "file_exclude_log": []
+    },
+    "Database": {
+        "is_filter": false,
+        "filter_tables": [],
+        "file": "aaaa_site_Icnb2Mwtjl65301f8066038_database.sql",
+        "prefix": "wp_"
+    },
+    "created": "2023-10-18 18:10:08",
+    "njt_fastdup_archive_name": "wp-content\/njt-fastdup",
+    "njt_fastdup_dir_plugin": "wp-content\/plugins"
+}
+2023-10-18 20:10:08 [INFO] //========SCAN PACKAGE JSON: START========//
+2023-10-18 20:10:08 [INFO] //========SCAN PACKAGE JSON: DONE========//
+2023-10-18 20:10:12 [INFO] //========DATABASE: START========//
+2023-10-18 20:10:12 [INFO] //========DATABASE: DONE========//
+2023-10-18 20:10:12 [INFO] //========ARCHIVE: START========//
+2023-10-18 20:10:12 [INFO] File Path: /home/lolo/htdocs/lolo.12ants.com/wp-content/njt-fastdup/tmp/aaaa_site_Icnb2Mwtjl65301f8066038_database.sql
+2023-10-18 20:10:12 [INFO] ZIP database: successfully
+2023-10-18 20:10:12 [INFO] File Path: /home/lolo/htdocs/lolo.12ants.com/wp-content/njt-fastdup/tmp/aaaa_site_Icnb2Mwtjl65301f8066038_scan.json
+2023-10-18 20:10:12 [INFO] ZIP scan_json: successfully
+2023-10-18 20:10:12 [INFO] File Path: 
+2023-10-18 20:10:12 [INFO] ZIP htaccess: Not Found
+2023-10-18 20:10:12 [INFO] File Path: /home/lolo/htdocs/lolo.12ants.com/wp-config.php
+2023-10-18 20:10:12 [INFO] ZIP wp-config: successfully
+2023-10-18 20:10:12 [INFO] File Path: 
+2023-10-18 20:10:12 [INFO] ZIP robots: Not Found
+2023-10-18 20:10:12 [INFO] -----ZIP Source: Start-----
